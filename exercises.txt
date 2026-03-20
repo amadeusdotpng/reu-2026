@@ -1,0 +1,140 @@
+A good introduction to the Tile Assembly Model can be
+found here:
+http://self-assembly.net/mpatitz/papers/Self-assembly-survey.pdf
+
+You should implement all of your tile sets in the format recognized by
+all of the following three simulators (any of which is fine for you to use):
+
+http://self-assembly.net/software/WebTAS/WebTAS-latest/
+
+http://self-assembly.net/wiki/index.php?title=ISU_TAS
+
+http://self-assembly.net/wiki/index.php?title=PyTAS
+
+
+Tutorials for how to use ISU TAS can be found here:
+http://self-assembly.net/wiki/index.php?title=ISU_TAS_Tutorials
+
+
+You should send me your .tds and .tdp files and also a brief
+write-up explaining at a high-level how your systems work,
+which may include diagrams, figures, etc. You 
+essentially need to convince me that your tile set works 
+correctly. Proofs must be mathematically rigorous and 
+convincing. Always use good grammar and correct spelling.
+
+===============================================================
+
+0. If you are allowed to use exactly five different glue labels and three
+different glue strengths (0, 1 or 2), then how many unique tile types could you
+make? (Note that there is considered to be a single glue of strength 0 called
+the null glue.)
+
+1. Make a base-3 counter. Successive rows should represent successive numbers,
+represented in base-3. Your tile set for this problem should produce the same
+(infinite) structure each time, no matter what order individual tiles are added. 
+
+Review binary notation: 
+https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:binary-numbers/v/the-binary-number-system
+
+The previous review of binary notation can be applied to base-3.
+
+2. Make a base-2 counter with the property that each row contains only as many
+tiles as it needs for the base-2  representation of whatever number it
+represents. So, for example, the row that represents the number five should only
+have three tiles in it: one for each bit in the binary representation of 5
+(101). If your counter gets "thicker-to- the-left", then the least significant
+bit should be represented by the tile in the rightmost column of tiles for the
+counter. Your tile set for this problem should produce the same (infinite)
+structure each time, no matter what order individual tiles are added. Your tile
+set must work at temperature 2 for this problem.
+
+3. Make an assembly which grows to 100 rows tall and then stops growing. Each
+row must represent a positive number in base-2. Each row can either be finite
+(like #2) or have infinitely many leading 0's (like the example base-2 counter).
+In either case, the final assembly must contain exactly 100 rows of tiles. Your
+tile set for this problem should produce the same structure each time, no matter
+what order individual tiles are added. Your tile set must work at temperature 2
+for this problem. Hint: not every row needs to represent a different value! This
+may seem tricky at first! 
+
+4. Exhibit a tile set that uniquely assembles an object that is a 2xn rectangle
+(for a given arbitrary given n). Your tile set must place tiles on -- and only
+on -- every point that is in the 2xn rectangle, i.e., tiles must be placed on
+and only on the points (0,0), (0,1), ..., (0,n-1), (1,0), (1,1), ..., (1,n-1).
+Your tile set must work at temperature \tau=1, which means tiles may bind when
+they match on at least 1 side. Try to find the smallest tile set that
+accomplishes this task. The size of your tile set will be a function of n. Prove
+that your tile set is the smallest tile set that uniquely assembles a 2xn
+rectangle, i.e., any tile set with one-fewer tile set cannot possibly assemble a
+2xn rectangle. Hint: do proof by contradiction! Note that you will essentially
+be providing an algorithm which, given some n, produces the tile set.
+
+Review proof by contradiction (a.k.a., indirect proof):
+http://www.youtube.com/watch?v=uNx60aqwfoc&noredirect=1
+
+
+
+5. Self-assembly of triangles. Here are some examples of triangles for a few
+values of N:
+
+        N = 3:
+                       x <----- (0,12)
+                      xx
+                     000
+                    x111
+                   xx110
+                  xxx101
+                 xxxx100    (-6,6) ??
+                  xxx011
+                   xx010
+                    x001
+                     000
+                      xx
+                       x <----- (0,0)
+
+        N = 4:
+                       x <------ (0,22)
+                      xx
+                     xxx
+                    0000
+                   x1111
+                  xx1110
+                 xxx1101
+                xxxx1100
+               xxxxx1011
+              xxxxxx1010
+             xxxxxxx1001
+            xxxxxxxx1000   (-12,11)
+             xxxxxxx0111
+              xxxxxx0110
+               xxxxx0101
+                xxxx0100
+                 xxx0011
+                  xx0010
+                   x0001
+                    0000
+                     xxx
+                      xx
+                       x <----- (0,0)
+
+You can probably imagine what kind of shape we would have for N = 5...
+
+There are two parts to this problem.
+
+First, note that I am not giving you a formal definition of the shape, but
+rather some examples. You should give the formal definition of a triangle for
+arbitrary N. Recall that the formal definition of an N x N square is: S_N = {0,
+1, ..., N - 1} x {0, 1, ..., N - 1}.
+
+Second, construct a tile set that uniquely builds this shape, as its described
+above, for any value of N \geq 3. Tiles must be placed on -- and only on -- the
+points in the shape that are represented with characters. The final assembly
+need not be fully-connected. For this problem, you must write a simple program
+that takes as input an integer and produces as output a TDS file with the
+definitions of your tile set that uniquely produces a triangle for the value
+that was input. You can use C++, Java, or Python (preferred) or a language of
+your choice.  Your tile set must have at most O(log N) number of unique tile
+types, where N is the size of the triangle. You may choose the temperature value
+(choose wisely!). You should indicate, (clearly) the tile complexity of your
+construction. 

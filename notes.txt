@@ -1,0 +1,8 @@
+Questions to Ask
+- advice on how to read math papers better
+- weakly self-assemble vs strictly self-assemble ?
+
+Try to understand again
+- tau-stability (?); i think it has something to do with temperature
+- weakly self-assemble vs strictly self-assemble
+- local determinism conditions; page 4 of Patitz paper

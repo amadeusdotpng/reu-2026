@@ -1,0 +1,61 @@
+\documentclass[11pt]{report}
+
+\usepackage{geometry}
+\geometry{left=1.25in, right=1.25in}
+
+\usepackage{graphicx}
+\graphicspath{ {./media/} }
+
+\makeatletter
+\renewcommand{\maketitle}{
+        {\Large \bf \@title}
+        \vspace{0.75em}
+
+        {\normalsize \@author}
+        \vspace{0.25em}
+
+        {\normalsize \@date}
+        \vspace{1em}
+
+}
+\makeatother
+
+\begin{document}
+\title{Self-Assembly Exercises}
+\date{\today}
+\author{Makise Kurisu}
+\maketitle
+
+\textbf{Exercise 0.}
+If you are allowed to use exactly five different glue labels and three different glue strengths (0,
+1 or 2), then how many unique tile types could you make? (Note that there is considered to be a
+single glue of strength 0 called the null glue.)
+
+There are 11 different glue label and glue strength combinations (5 for each glue label of
+strength 1, 5 for each glue label of strength 2, and an additional 1 for the null glue). Each of the
+four sides of a tile can hold any of the 11 different glue labels. Therefore, there are a total of
+$11^4 = 14641$ unique tile types you can make.
+
+\textbf{Exercise 1.}
+Make a base-3 counter. Successive rows should represent successive numbers, represented in base-3.
+Your tile set for this problem should produce the same (infinite) structure each time, no matter
+what order individual tiles are added. 
+
+\textbf{Exercise 2.} 
+Make a base-2 counter with the property that each row contains only as many tiles as it needs for
+the base-2  representation of whatever number it represents. So, for example, the row that
+represents the number five should only have three tiles in it: one for each bit in the binary
+representation of 5 (101). If your counter gets "thicker-to-the-left", then the least significant
+bit should be represented by the tile in the rightmost column of tiles for the counter. Your tile
+set for this problem should produce the same (infinite) structure each time, no matter what order
+individual tiles are added. Your tile set must work at temperature 2 for this problem.
+
+\textbf{Exercise 3.}
+Make an assembly which grows to 100 rows tall and then stops growing. Each row must represent a
+positive number in base-2. Each row can either be finite (like \#2) or have infinitely many leading
+0's (like the example base-2 counter). In either case, the final assembly must contain exactly 100
+rows of tiles. Your tile set for this problem should produce the same structure each time, no matter
+what order individual tiles are added. Your tile set must work at temperature 2 for this problem.
+Hint: not every row needs to represent a different value! This may seem tricky at first! 
+
+\end{document}
