@@ -1,0 +1,157 @@
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\geometry{left=1.25in, right=1.25in}
+
+\usepackage{graphicx}
+\graphicspath{ {./media/} }
+
+\usepackage{svg}
+\svgpath{{./media/}}
+\svgsetup{inkscapelatex=false}
+
+\usepackage{subcaption}
+\usepackage{cleveref}
+
+\makeatletter
+\renewcommand{\maketitle}{
+    {\Large \bf \@title}
+    \vspace{0.75em}
+
+    {\normalsize \@author}
+    \vspace{0.25em}
+
+    {\normalsize \@date}
+    \vspace{1em}
+}
+\makeatother
+
+\begin{document}
+\title{Self-Assembly Exercises}
+\date{\today}
+\author{Makise Kurisu}
+\maketitle
+
+\subsection*{Exercise 0}
+There are 11 different glue label and glue strength combinations (5 for each glue label of
+strength 1, 5 for each glue label of strength 2, and an additional 1 for the null glue). Each of the
+four sides of a tile can hold any of the 11 different glue labels. Therefore, there are a total of
+$11^4 = 14641$ unique tile types you can make.
+
+\subsection*{Exercise 1}
+In this system, there are 12 tile types evenly split into four categories:
+\verb|Border|, \verb|Zero|, \verb|One|, and \verb|Two| as shown in \cref{fig:exs-1}.
+
+\begin{figure}[htbp]
+    \centering
+    \begin{subfigure}{.5\textwidth}
+        \includesvg[width=.30\linewidth]{exercise_1-SEED}
+        \includesvg[width=.30\linewidth]{exercise_1-BOTTOM}
+        \includesvg[width=.30\linewidth]{exercise_1-RIGHT}
+        \caption{\texttt{Border} tiles.}
+        \label{fig:exs-1_border}
+    \end{subfigure}%
+    \begin{subfigure}{.5\textwidth}
+        \includesvg[width=.30\linewidth]{exercise_1-00}
+        \includesvg[width=.30\linewidth]{exercise_1-21}
+        \includesvg[width=.30\linewidth]{exercise_1-12}
+        \caption{\texttt{Zero} tiles.}
+        \label{fig:exs-1_zero}
+    \end{subfigure}
+    \begin{subfigure}{.5\textwidth}
+        \includesvg[width=.30\linewidth]{exercise_1-01}
+        \includesvg[width=.30\linewidth]{exercise_1-10}
+        \includesvg[width=.30\linewidth]{exercise_1-22}
+        \caption{\texttt{One} tiles.}
+        \label{fig:exs-1_one}
+    \end{subfigure}%
+    \begin{subfigure}{.5\textwidth}
+        \includesvg[width=.30\linewidth]{exercise_1-02}
+        \includesvg[width=.30\linewidth]{exercise_1-20}
+        \includesvg[width=.30\linewidth]{exercise_1-11}
+        \caption{\texttt{Two} tiles.}
+        \label{fig:exs-1_two}
+    \end{subfigure}
+    \caption{Each category of tiles}
+    \label{fig:exs-1}
+\end{figure}
+
+The \verb|Border| category forms the bottom and right borders of the ternary counter where the
+``trit'' tiles, tiles in the categories \verb|Zero|, \verb|One|, and \verb|Two| can grow off of.
+The seed assembly contains a singular \verb|SEED| tile with which the \verb|BOTTOM| and \verb|RIGHT|
+tiles can grow off of. As shown in \cref{fig:exs-1_border}, the \verb|SEED| tile has a strength-2
+glue of colors \verb|R| and \verb|B| on its north and west sides. This allows the \verb|BOTTOM| and
+\verb|RIGHT| tiles to grow horizontally and vertically forever, respectively, since the two tiles
+each also have a strength-2 glue going in their respective direction.
+
+The trit tiles represent each value in base-3 according to their name e.g., each tile in the
+\verb|Zero| tiles represent ternary 0. Each row of the counter, made up of trit tiles, represents a
+value in base-3 with each successive row counting up by 1. The counter works by ``passing'' values
+along the glues of each tile. 
+
+The south and east sides of each trit tile act as an input. The tile itself represents the result of
+the operation on the input, in this case addition. For example, all tiles in category \verb|One| has
+inputs that would add up to 1 in base three. Each trit category has to account for all possible
+inputs that would add up to its corresponding value. The trit tiles are named according to its south
+then east inputs.
+
+The north and west sides of each trit tile work as outputs to give to the next tile. On the north
+side, it passes its own value to the south side of the next trit tile. On the west side, it passes
+along the carry value of the operation. E.g., if the inputs on the south and east sides were 2 and
+1, the result of the trit is 0 and has to carry a 1 onto the next trit on the left.
+
+The west glue of the \verb|RIGHT| tile always passes a value of 1 to the east side of a trit tile.
+This results in adding a one to the value of the previous row of trit tiles since the trit
+tiles of the previous row passes along its own values upwards. The bottom border, made up of
+\verb|BOTTOM| tiles acts as a row with a value of 0 since each \verb|BOTTOM| tile passes along a 0
+on its north side.
+
+It's also important to see that all of the glue that passes along values are of strength-1 since the
+system is temperature-2 and the trit tiles need two inputs.
+
+\subsection*{Exercise 2} 
+
+\begin{figure}[htbp]
+    \centering
+    \begin{subfigure}{\textwidth}
+        \includesvg[width=.15\linewidth]{exercise_2-SEED}
+        \includesvg[width=.15\linewidth]{exercise_2-00}
+        \includesvg[width=.15\linewidth]{exercise_2-11}
+        \includesvg[width=.15\linewidth]{exercise_2-1E}
+        \includesvg[width=.15\linewidth]{exercise_2-11_G}
+        \includesvg[width=.15\linewidth]{exercise_2-1E_G}
+        \caption{\texttt{Zero} tiles.}
+        \label{fig:exs-2_zero}
+    \end{subfigure}
+    \begin{subfigure}{\textwidth}
+        \includesvg[width=.15\linewidth]{exercise_2-01}
+        \includesvg[width=.15\linewidth]{exercise_2-10}
+        \includesvg[width=.15\linewidth]{exercise_2-0E}
+        \includesvg[width=.15\linewidth]{exercise_2-10_G}
+        \includesvg[width=.15\linewidth]{exercise_2-0E_G}
+        \includesvg[width=.15\linewidth]{exercise_2-E1_G}
+        \caption{\texttt{One} tiles.}
+        \label{fig:exs-2_one}
+    \end{subfigure}
+   \label{fig:exs-2}
+\end{figure}
+
+talk about:
+
+also passes values along the glue.
+
+passes along another type of ``information'' \verb|G| indicating whether or not it should eventually
+generate another column on the left.
+
+Concept of ``epsilon'' input.
+
+
+\subsection*{Exercise 3}
+Make an assembly which grows to 100 rows tall and then stops growing. Each row must represent a
+positive number in base-2. Each row can either be finite (like \#2) or have infinitely many leading
+0's (like the example base-2 counter). In either case, the final assembly must contain exactly 100
+rows of tiles. Your tile set for this problem should produce the same structure each time, no matter
+what order individual tiles are added. Your tile set must work at temperature 2 for this problem.
+Hint: not every row needs to represent a different value! This may seem tricky at first! 
+
+\end{document}
