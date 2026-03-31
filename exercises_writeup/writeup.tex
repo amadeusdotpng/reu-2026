@@ -39,8 +39,9 @@ four sides of a tile can hold any of the 11 different glue labels. Therefore, th
 $11^4 = 14641$ unique tile types you can make.
 
 \subsection*{Exercise 1}
-In this system, there are 12 tile types evenly split into four categories:
-\verb|Border|, \verb|Zero|, \verb|One|, and \verb|Two| as shown in \cref{fig:exs-1}.
+The goal of this temperature-2 system is to produce a ternary counter. In this system, there are 12
+tile types evenly split into four categories: \verb|Border|, \verb|Zero|, \verb|One|, and \verb|Two|
+as shown in \cref{fig:exs-1}.
 
 \begin{figure}[htbp]
     \centering
@@ -78,7 +79,7 @@ In this system, there are 12 tile types evenly split into four categories:
 
 The \verb|Border| category forms the bottom and right borders of the ternary counter where the
 ``trit'' tiles, tiles in the categories \verb|Zero|, \verb|One|, and \verb|Two| can grow off of.
-The seed assembly contains a singular \verb|SEED| tile with which the \verb|BOTTOM| and \verb|RIGHT|
+The seed assembly contains a single \verb|SEED| tile with which the \verb|BOTTOM| and \verb|RIGHT|
 tiles can grow off of. As shown in \cref{fig:exs-1_border}, the \verb|SEED| tile has a strength-2
 glue of colors \verb|R| and \verb|B| on its north and west sides. This allows the \verb|BOTTOM| and
 \verb|RIGHT| tiles to grow horizontally and vertically forever, respectively, since the two tiles
@@ -110,9 +111,9 @@ It's also important to see that all of the glue that passes along values are of 
 system is temperature-2 and the trit tiles need two inputs.
 
 \subsection*{Exercise 2} 
-
-In this system, there are 12 tiles evenly split between two categories: \verb|Zero| and \verb|One|
-as shown in \cref{fig:exs-2}.
+The goal of this temperature-2 system is to create a log-width binary counter i.e. produce a binary
+counter that does not produce leading or trailing zeroes. In this system, there are 12 tiles evenly
+split between two categories: \verb|Zero| and \verb|One| as shown in \cref{fig:exs-2}.
 
 \begin{figure}[htbp]
     \centering
@@ -140,18 +141,21 @@ as shown in \cref{fig:exs-2}.
     \label{fig:exs-2}
 \end{figure}
 
-This counter works similarly to the previous counter by thinking of its south and east sides as
-inputs, its north and west sides as its outputs, and the tile itself as the result of the operation
-on the inputs.
-talk about:
+This binary counter works similarly to the previous counter by thinking of its south and east sides
+as inputs, its north and west sides as its outputs, the tile itself as the result of the operation
+on the inputs, and the tiles passing values between each other through the glues. The seed aseembly
+also contains a single \verb|SEED| tile.
 
-also passes values along the glue.
+In addition to passing values along the glues, it also passes an extra bit of information, $S$,
+to indicate that it is the most significant bit of the current row, i.e. the leftmost column. This
+is denoted by the presence of an \verb|S| in the glue or tile name. The tile knowing that it is the
+most significant bit is important and will be discussed later.
 
-passes along another type of ``information'' \verb|G| indicating whether or not it should eventually
-generate another column on the left.
-
-Concept of ``epsilon'' input.
-
+Since this counter does not have a border on the right to give an input of value 1 on the east side
+for each row, it is replaced by having a new input of value $\varepsilon$, denoted with an \verb|E|.
+The least significant bit, i.e. the rightmost column, of each row always has an input of value
+$\varepsilon$ on its east side. This means that the glues on the north and south sides of the least
+significant bit has to be of strength-2, otherwise the system will never grow.
 
 \subsection*{Exercise 3}
 Make an assembly which grows to 100 rows tall and then stops growing. Each row must represent a
