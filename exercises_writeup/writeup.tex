@@ -151,15 +151,15 @@ This binary counter works similarly to the previous counter by thinking of its s
 as inputs, its north and west sides as its outputs, the tile itself as the result of the operation
 on the inputs, and the tiles passing values between each other through the glues. The naming scheme
 of each tile is again based on its south and east inputs. Some tile names contain an \verb|L| at the
-end and will be discussed later. The seed aseembly also contains a single \verb|SEED| tile.
+end and will be discussed later. The seed aseembly also contains a single \verb|SEEDL| tile.
 
 Since this counter does not have a border to give an input of value 1 on the east side for each row,
 it is replaced by having a new input of value $\varepsilon$, denoted with an \verb|E| in the tile
 names, to imitate having a constant input of value 1 on the east side (and an input of value 0 on
 the south side). The least significant bit (LSB), i.e. the rightmost column, of each row always has
 an input of value $\varepsilon$ on its east side. Therefore, the glues on the north and south sides
-of the LSB has to be of strength-2, as shown in \cref{fig:exs-2}, otherwise the system will never
-grow.
+of the LSB has to be of strength-2 as shown on the tiles \verb|0E|, \verb|0EL|, \verb|1E|, and
+\verb|1EL| in \cref{fig:exs-2}. Otherwise, the system will never grow.
 
 In addition to passing values along the glues, it also passes an extra bit of information, $L$,
 to indicate that it is on the left edge of the assembly. This is denoted by the presence of an
@@ -168,12 +168,12 @@ know that it is on the left edge so that when the next number requires an additi
 left, it is able to grow another column on its left.
 
 Tiles \verb|11L| and \verb|1EL| are responsible for creating a new column to the left. Notice that
-the glue on the west side of both tiles, \verb|1L| are of strength-2 since there can be no tile in
+the glue on the west side of both tiles, \verb|1L|, are of strength-2 since there can be no tile in
 the previous row for the new column, and that it passes along a value of 1 since the result of the
-tile's inputs result in having to carry to the next bit. This results in tile \verb|E1L| to bind to
-the east side of \verb|11L| and \verb|1EL| which continues to pass along $L$ upwards to indicate
-that it is on the left edge of the assembly. Tiles \verb|11L| and \verb|1EL| no longer passes $L$
-upwards since the column is no longer the leftmost column.
+tile's inputs result in having to carry to the next bit. Only tile \verb|E1L| can bind to the west
+side of tiles \verb|11L| and \verb|1EL|. Tile \verb|E1L| continues to pass along $L$ upwards to
+indicate that it is on the left edge of the assembly. Tiles \verb|11L| and \verb|1EL| no longer
+passes $L$ upwards since the column is no longer the leftmost column.
 
 The lighter tiles, i.e. the first three tiles in each category, make up the middle of the assembly
 and act identical to the trit tiles in the ternary counter.
@@ -181,9 +181,9 @@ and act identical to the trit tiles in the ternary counter.
 \newpage
 
 \subsection*{Exercise 3}
-The goal of this system is to create an assembly that grows to exactly 100 rows tall with each row
-representing a number in base-2. In this system, there are 26 tiles split into 6 categories as
-shown in \cref{fig:exs-3}.
+The goal of this temperature-2 system is to create an assembly that grows to exactly 100 rows tall
+with each row representing a number in base-2. In this system, there are 26 tiles split into 6
+categories as shown in \cref{fig:exs-3}.
 
 \begin{figure}[!ht]
     \centering
@@ -209,13 +209,13 @@ shown in \cref{fig:exs-3}.
         \includesvg[width=.14\linewidth]{exercise_3-00_INCR_L}
         \includesvg[width=.14\linewidth]{exercise_3-00_INCR_M}
         \includesvg[width=.14\linewidth]{exercise_3-11_INCR_M}
-        \includesvg[width=.14\linewidth]{exercise_3-0_INCR_R}
+        \includesvg[width=.14\linewidth]{exercise_3-1E_INCR_R}
 
         \includesvg[width=.14\linewidth]{exercise_3-01_INCR_L}
         \includesvg[width=.14\linewidth]{exercise_3-10_INCR_L}
         \includesvg[width=.14\linewidth]{exercise_3-01_INCR_M}
         \includesvg[width=.14\linewidth]{exercise_3-10_INCR_M}
-        \includesvg[width=.14\linewidth]{exercise_3-1_INCR_R}
+        \includesvg[width=.14\linewidth]{exercise_3-0E_INCR_R}
         \caption{\texttt{Increment} tiles.}
         \label{fig:exs-3_increment}
     \end{subfigure}
@@ -259,7 +259,7 @@ calculation of the seed number and number of bits used will be discussed later.
 \end{figure}
 
 
-This system works by using a counter to count up from the seed number until all bits are 1 which
-then generates the \verb|End| tiles to terminate anymore growth.
+This system works by using a counter to count up from the seed number until all the bits are 1, then
+generates the \verb|End| tiles to terminate further growth. 
 
 \end{document}
