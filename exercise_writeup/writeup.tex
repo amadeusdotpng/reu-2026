@@ -11,6 +11,7 @@
 \svgsetup{inkscapelatex=false}
 
 \usepackage{subcaption}
+\usepackage{amsmath}
 \usepackage{cleveref}
 
 \makeatletter
@@ -29,7 +30,7 @@
 \begin{document}
 \title{Self-Assembly Exercises}
 \date{\today}
-\author{Makise Kurisu}
+\author{Brent Marcus Orlina}
 \maketitle
 
 \subsection*{Exercise 0}
@@ -156,10 +157,10 @@ end and will be discussed later. The seed aseembly also contains a single \verb|
 Since this counter does not have a border to give an input of value 1 on the east side for each row,
 it is replaced by having a new input of value $\varepsilon$, denoted with an \verb|E| in the tile
 names, to imitate having a constant input of value 1 on the east side (and an input of value 0 on
-the south side). The least significant bit (LSB), i.e. the rightmost column, of each row always has
+the south side). The least significant bit, i.e. the rightmost column, of each row always has
 an input of value $\varepsilon$ on its east side. Therefore, the glues on the north and south sides
-of the LSB has to be of strength-2 as shown on the tiles \verb|0E|, \verb|0EL|, \verb|1E|, and
-\verb|1EL| in \cref{fig:exs-2}. Otherwise, the system will never grow.
+of the least significant bit has to be of strength-2 as shown on the tiles \verb|0E|, \verb|0EL|,
+\verb|1E|, and \verb|1EL| in \cref{fig:exs-2}. Otherwise, the system will never grow.
 
 In addition to passing values along the glues, it also passes an extra bit of information, $L$,
 to indicate that it is on the left edge of the assembly. This is denoted by the presence of an
@@ -246,7 +247,7 @@ significant bit, least significant bit, or neither. For this exercise, the seed 
 \verb|0b001110|, which results in a seed assembly shown in \cref{fig:exs-3_seed-assembly}. The
 calculation of the seed number and number of bits used will be discussed later.
 
-\begin{figure}[!ht]
+\begin{figure}[htbp]
     \centering
     \includesvg[width=.135\textwidth]{exercise_3-0_SEED_L}%
     \includesvg[width=.135\textwidth]{exercise_3-0_SEED_M}%
@@ -260,6 +261,86 @@ calculation of the seed number and number of bits used will be discussed later.
 
 
 This system works by using a counter to count up from the seed number until all the bits are 1, then
-generates the \verb|End| tiles to terminate further growth. 
+generates the \verb|End| tiles to terminate further growth. The counting also occurs only one row at
+a time unlike the previous counters which are able to grow the next row even if the previous row
+isn't ``done''. This is done by having ``Increment'' and ``Copy'' rows made up of \verb|Increment|
+and \verb|Copy| tiles respectively. The Increment rows are what does the actual counting. The Copy
+rows simply copy the value from the previous row. However, it plays a crucial role of being able to
+indicate when the counter should terminate growth.
+
+The rightmost tile in the seed assembly has a glue of \verb|INCR_0| of strength-2, as seen on
+\cref{fig:exs-3_incr-row} which only allows for an Increment row to grow from right to left.
+This is also enforced by \verb|Increment| tiles having glues on the west and east sides allowing
+only other \verb|Increment| tiles to bind with them.
+
+\begin{figure}[htbp]
+    \centering
+    \includesvg[width=0.8\textwidth]{exercise_3-incr}
+    \caption{The assembly after 6 steps of growth.}
+    \label{fig:exs-3_incr-row}
+\end{figure}
+
+As shown on \cref{fig:exs-3_copy-row}, the tile \verb|00_INCR_L| has a strength-2 glue,
+\verb|COPY_0|, on its north side which allows for a Copy row to grow from left to right. This is
+also enforced by the \verb|Copy| tiles having glues on the west and east sides allowing only other
+\verb|Copy| tiles to to bind with them.
+
+\begin{figure}[htbp]
+    \centering
+    \includesvg[width=0.8\textwidth]{exercise_3-copy}
+    \caption{The assembly after 6 steps of growth.}
+    \label{fig:exs-3_copy-row}
+\end{figure}
+
+\newpage
+
+As shown on \cref{fig:exs-3_mid}, once the most significant bit of the copy row becomes 1, it starts
+using the glue \verb|COPY_END| on the east side to pass along the signal to terminate the growth.
+However, a \verb|Copy| tile of value 0 that binds to the \verb|COPY_END| glue, stops passing along
+the signal and only uses the \verb|COPY| glue since the assembly should only terminate once all the
+bits are of value 1.
+
+\begin{figure}[htbp]
+    \centering
+    \includesvg[width=0.8\textwidth]{exercise_3-mid}
+    \caption{The assembly after 6 steps of growth.}
+    \label{fig:exs-3_mid}
+\end{figure}
+
+At the end, the \verb|COPY_END| glue reaches the least significant bit of the copy row and signals
+for the \verb|END| tiles to generate and terminates the growth of the system, as seen on
+\cref{fig:exs-3_ending}.
+
+\begin{figure}[htbp]
+    \centering
+    \includesvg[width=0.8\textwidth]{exercise_3-end}
+    \caption{The assembly after 6 steps of growth.}
+    \label{fig:exs-3_ending}
+\end{figure}
+
+To summarize, the assembly works by counting up from the seed number until all of its bits are 1.
+The counting is done by Increment rows that use \verb|Increment| tiles. The most significant bit of
+the Copy row is responsible for creating the \verb|COPY_END| signal and attempting to pass it to the
+least significant bit. Once the all of the bits of a Copy row are 1, the \verb|COPY_END| signal is
+able to passed to the least significant bit through the west/east glues, the tile
+\verb|1_COPY_R_END| is able to bind to the assembly and signal for the termination of the assembly
+through the \verb|END| glue.
+
+Given a integer $N > 2$ where $L$ is the smallest number of bits needed to represent $N$,
+\cref{eq:exs-3_seed-number} calculates the seed number to produce $N$ rows. Assuming $N$ is even,
+\cref{eq:exs-3_seed-number} works by subtracting half the rows, $\frac{N}{2}$, from the value of the
+row after the last Copy row, $2^{L - 1}$ (since all the bits of the last Copy row are all 1, i.e.
+$2^{L - 1} - 1$). We subtract half of $N$ since for every increment row, there is a Copy row that
+follows. We raise 2 to the power of $L - 1$ because if we instead raised it by $L$, the most
+significant bit of \cref{eq:exs-3_seed-number} will always be guaranteed to be 1 since we are
+dividing $N$ by 2, i.e. bitshifting to the right. Therefore, the most significant bit is unecessary.
+
+If $N$ is odd, we can simply change the seed assembly to start with a Copy row to effectively change
+$N$ back to an even number. Flooring $\frac{N}{2}$ is needed to make it work with odd $N$.
+
+\begin{equation}
+    \text{seed number} = 2^{L - 1} - \left\lfloor \frac{N}{2} \right\rfloor
+    \label{eq:exs-3_seed-number}
+\end{equation}
 
 \end{document}

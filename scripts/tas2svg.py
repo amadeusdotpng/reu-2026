@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from itertools import pairwise
+from collections import defaultdict
 
 @dataclass
 class Tile:
@@ -13,6 +14,15 @@ class Tile:
     e_glue: tuple[str, int]
     s_glue: tuple[str, int]
     w_glue: tuple[str, int]
+
+@dataclass
+class TAS:
+    tds_file: str
+    min_x: int
+    min_y: int
+    width: int
+    height: int
+    tilemap: dict[str, tuple[int, int]]
 
 def svg_line(
     x1: float, y1: float, x2: float, y2: float,
@@ -35,6 +45,31 @@ def svg_text(
 ):
     return f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}em" text-anchor="middle" transform="rotate({rotation}, {x}, {y})">{text}</text>'
 
+def parse_tds(file: str) -> list[Tile]:
+    with open(file, 'r') as f:
+        tiles = [[field.split() for field in tile.split('\n')[:-1]] for tile in f.read().split('\n\n') if tile]
+        tiles = [{field[0] : '' if len(field) < 2 else field[1] for field in tile} for tile in tiles]
+        
+    NULL_GLUE = ('', 0)
+    return [
+        Tile(
+            t['TILENAME'],
+            t['LABEL'],
+            t['TILECOLOR'],
+            NULL_GLUE if 'NORTHBIND' not in t or 'NORTHLABEL' not in t else (t['NORTHLABEL'], int(t['NORTHBIND'])),
+            NULL_GLUE if 'EASTBIND'  not in t or 'EASTLABEL'  not in t else (t['EASTLABEL'],  int(t['EASTBIND'] )),
+            NULL_GLUE if 'SOUTHBIND' not in t or 'SOUTHLABEL' not in t else (t['SOUTHLABEL'], int(t['SOUTHBIND'])),
+            NULL_GLUE if 'WESTBIND'  not in t or 'WESTLABEL'  not in t else (t['WESTLABEL'],  int(t['WESTBIND'] )),
+        )
+        for t in tiles
+    ]
+
+def tds_to_svg(tiles: list[Tile]) -> dict[str, str]:
+    svg_tiles = {}
+    for tile in tiles:
+        svg_tiles[tile.name] = tile_to_svg(tile)
+    return svg_tiles
+
 def tile_to_svg(tile: Tile):
     # pixels
     STROKE_DASH_LENGTH     = 4.0
@@ -48,8 +83,7 @@ def tile_to_svg(tile: Tile):
     FONT_SIZE_PRIMARY   = 1.10
     FONT_SIZE_SECONDARY = 0.85
 
-    svg = ''
-    svg += '<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">'
+    svg = f'<svg id="{tile.name}" width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">'
 
     # Tile Color
     svg += f'<rect width="100" height="100" fill="{tile.color}"/>'
@@ -115,24 +149,46 @@ def tile_to_svg(tile: Tile):
     svg += '</svg>'
     return svg
 
-def parse_system(file: str) -> list[Tile]:
+def parse_tdp(file: str) -> TAS:
     with open(file, 'r') as f:
-        tiles = [[field.split() for field in tile.split('\n')[:-1]] for tile in f.read().split('\n\n') if tile]
-        tiles = [{field[0] : '' if len(field) < 2 else field[1] for field in tile} for tile in tiles]
-        
-    NULL_GLUE = ('', 0)
-    return [
-        Tile(
-            t['TILENAME'],
-            t['LABEL'],
-            t['TILECOLOR'],
-            NULL_GLUE if 'NORTHBIND' not in t or 'NORTHLABEL' not in t else (t['NORTHLABEL'], int(t['NORTHBIND'])),
-            NULL_GLUE if 'EASTBIND'  not in t or 'EASTLABEL'  not in t else (t['EASTLABEL'],  int(t['EASTBIND'] )),
-            NULL_GLUE if 'SOUTHBIND' not in t or 'SOUTHLABEL' not in t else (t['SOUTHLABEL'], int(t['SOUTHBIND'])),
-            NULL_GLUE if 'WESTBIND'  not in t or 'WESTLABEL'  not in t else (t['WESTLABEL'],  int(t['WESTBIND'] )),
-        )
-        for t in tiles
-    ]
+        lines = f.read().split('\n')
+
+        tds_file = lines[0]
+        tiles = [line.split() for line in lines[2:] if line]
+
+
+    min_x, max_x = None, None
+    min_y, max_y = None, None
+    tilemap = defaultdict(list)
+    for tile, x, y in tiles:
+        x, y = int(x), int(y)
+        min_x = min(x, min_x) if min_x is not None else x
+        min_y = min(y, min_y) if min_y is not None else y
+        max_x = max(x, max_x) if max_x is not None else x
+        max_y = max(y, max_y) if max_y is not None else y
+        tilemap[tile].append((x, y))
+
+    width  = abs(max_x - min_x) + 1
+    height = abs(max_y - min_y) + 1
+    return TAS(tds_file, min_x, min_y, width, height, dict(tilemap))
+
+def tdp_to_svg(tas: TAS, svg_tiles: dict[str, str]) -> str:
+    svg = f'<svg viewBox="0 0 {100*tas.width} {100*tas.height}" xmlns="http://www.w3.org/2000/svg">'
+
+    # <defs>
+    svg += '<defs>'
+    svg += ''.join(svg_tile for svg_tile in svg_tiles.values())
+    svg += '</defs>'
+
+    # <use>
+    svg += ''.join(
+        f'<use href="#{tile}" x="{100 * (x - tas.min_x)}" y="{100*(tas.height - y - tas.min_y - 1)}"/>'
+        for tile, coords in tas.tilemap.items()
+        for x, y in coords
+    )
+
+    svg += '</svg>'
+    return svg
         
 
 if __name__ == '__main__':
@@ -140,10 +196,16 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(
         prog='tas2svg',
-        description='Converts tiles from a .tds file into .svg files.',
+        description='Converts tiles from a .tdp file into an .svg file.',
     )
 
-    parser.add_argument('system')
+    parser.add_argument('file')
+    parser.add_argument(
+        '-t',
+        '--use-tds',
+        help='Convert a .tds file into a set of .svg files.',
+        action='store_true'
+    )
     parser.add_argument(
         '-of',
         '--output-folder',
@@ -151,13 +213,17 @@ if __name__ == '__main__':
     )
 
     args = parser.parse_args()
-    assert args.system.endswith('.tds')
+    if args.use_tds:
+        print('unimplemented')
+    else:
+        assert args.file.endswith('.tdp')
+        print(f"Parsing .tdp file - {args.file}")
+        tas = parse_tdp(args.file)
 
-    print(f'Parsing System "{args.system}"')
-    tiles = parse_system(args.system)
-    for tile in tiles:
-        print(f'Converting Tile "{tile.name}"')
-        svg = tile_to_svg(tile)
-        with open(f'{args.output_folder}/{args.system.split('/')[-1][:-4]}-{tile.name}.svg', 'w+') as f:
-            f.write(svg)
+        print(f'Conveting .tds file to svg - {tas.tds_file}')
+        tds = parse_tds(tas.tds_file)
+        svg_tiles = tds_to_svg(tds)
 
+        print(f'Converting .tds file to svg - {args.file}')
+        with open(f'{args.output_folder}/{args.file[:-4]}.svg', 'w+') as f:
+            f.write(tdp_to_svg(tas, svg_tiles))
