@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8000mm"
+   height="4000mm"
+   viewBox="0 0 8000 4000"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="syncTAM_thm10_construction.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.24777874"
+     inkscape:cx="7210.0616"
+     inkscape:cy="5131.5944"
+     inkscape:window-width="2040"
+     inkscape:window-height="1176"
+     inkscape:window-x="17"
+     inkscape:window-y="70"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="true"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       snapvisiblegridlinesonly="false"
+       enabled="false" />
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="23"
+       dotted="true"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker21"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path21" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker16"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Square"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path16" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Square"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Square"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Square-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Square"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path18-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g12"
+       inkscape:label="corner_claim_fix"
+       transform="translate(391.50012,-0.50013079)">
+      <g
+         id="g2-5"
+         inkscape:label="east_bit_writer"
+         transform="translate(597.9999,1009.9999)">
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-2-0"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="643.50006"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_writer_constructor-9" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-8-1"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="666.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-8" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-4-0"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="689.5"
+           transform="matrix(-1,0,0,1,0,3.0000001)"
+           inkscape:label="bit_writer_constructor-7" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-0-3"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="712.49988"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-6" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-6-0"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="712.49988"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-3" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-7-1"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="689.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-2" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-9"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="666.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-1" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-2"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="643.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-0" />
+      </g>
+      <g
+         id="g6-9"
+         inkscape:label="east_glue"
+         transform="translate(597.9999,1012.9999)">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-7-6"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="620.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="glue-11" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-9"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="597.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-10" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-7-9-1"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="574.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-9" />
+      </g>
+      <g
+         id="g5-2"
+         inkscape:label="south_bit_writer"
+         transform="translate(597.9999,1012.9999)">
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-3"
+           width="23"
+           height="23"
+           x="-2023.5001"
+           y="735.50012"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-2" />
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-3-2"
+           width="23"
+           height="23"
+           x="-2046.5004"
+           y="735.49994"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-2" />
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-6-6"
+           width="23"
+           height="23"
+           x="-2000.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-1" />
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-9"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="735.50024"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_writer-0" />
+      </g>
+      <g
+         id="g8-5"
+         inkscape:label="south_glue"
+         transform="matrix(0.99999869,0,0,1,598.0021,1012.9999)"
+         style="stroke-width:1">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-4"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-11" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-21"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-10" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-9-7"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-9" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;marker-end:url(#Square-9)"
+         d="m 2540.9996,1759.7499 92.0008,0.2508 -3e-4,-9.1"
+         id="path5-0"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="south_writer_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none"
+         d="m 2655.9999,1644.9999 5e-4,92.0008 h -23 l -3e-4,-69.0007"
+         id="path6-3"
+         inkscape:label="east_writer_pathing"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#510099;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 2484.7504,1760.0001 56.2491,-0.2502"
+         id="path12"
+         sodipodi:nodetypes="cc"
+         inkscape:label="glue_pathing" />
+      <path
+         style="fill:#510099;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 2656.0001,1588.7507 -2e-4,56.2492"
+         id="path8-0-3"
+         sodipodi:nodetypes="cc"
+         inkscape:label="glue_pathing" />
+    </g>
+    <g
+       id="g8"
+       inkscape:label="SE-east_first"
+       transform="translate(-2.6251797e-5,-6.3849453e-5)">
+      <g
+         id="g2"
+         inkscape:label="east_bit_writer"
+         transform="translate(597.9999,1009.9999)">
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-5"
+           width="23"
+           height="23"
+           x="-1839.5"
+           y="600.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-5" />
+        <rect
+           style="fill:#007000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2"
+           width="23"
+           height="23"
+           x="-1862.5"
+           y="600.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-4" />
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8"
+           width="23"
+           height="23"
+           x="-1885.5"
+           y="600.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-3" />
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-5-5"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="600.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-2" />
+        <rect
+           style="fill:#007000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="623.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,1.1458333e-5)"
+           inkscape:label="bit-1" />
+        <rect
+           style="fill:#007000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-0"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="600.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-1" />
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="600.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-0" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-9"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="597.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_writer_constructor-14" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-64-4-3"
+           width="23"
+           height="23"
+           x="-2000.4998"
+           y="597.49939"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_writer_constructor-13" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-64-4-4"
+           width="23"
+           height="23"
+           x="-2000.5"
+           y="620.50098"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-12" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-64-4"
+           width="23"
+           height="23"
+           x="-2000.5"
+           y="643.49951"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-11" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-64"
+           width="23"
+           height="23"
+           x="-2023.5001"
+           y="643.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-10" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-2"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="643.50006"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_writer_constructor-9" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-8"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="666.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-8" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-4"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="689.5"
+           transform="matrix(-1,0,0,1,0,3.0000001)"
+           inkscape:label="bit_writer_constructor-7" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-0"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="712.49988"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-6" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-0-6"
+           width="23"
+           height="23"
+           x="-2046.5"
+           y="735.49951"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-5" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-6-1"
+           width="23"
+           height="23"
+           x="-2069.5"
+           y="735.49951"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-4" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-6"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="712.49988"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-3" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9-7"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="689.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-2" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-9"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="666.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-1" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="643.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_writer_constructor-0" />
+      </g>
+      <g
+         id="g7"
+         inkscape:label="east_bit_reader"
+         transform="translate(597.9999,1012.9999)">
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-0-8"
+           width="23"
+           height="23"
+           x="-2023.5"
+           y="620.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-11" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-0-6"
+           width="23"
+           height="23"
+           x="-2023.5"
+           y="597.49994"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-10" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-0"
+           width="23"
+           height="23"
+           x="-2023.5001"
+           y="574.50049"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-9" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-1"
+           width="23"
+           height="23"
+           x="-2023.5"
+           y="551.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-8" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-8"
+           width="23"
+           height="23"
+           x="-2023.5"
+           y="528.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-7" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-8-2"
+           width="23"
+           height="23"
+           x="-2023.5001"
+           y="505.50043"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-6" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4-4"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="505.50043"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-5" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1-4"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="528.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-4" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8-1"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="551.50037"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-3" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-5-7"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="574.50049"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-2" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-8"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="597.50049"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-1" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-5"
+           width="23"
+           height="23"
+           x="-2046.5002"
+           y="620.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_reader_constructor-0" />
+      </g>
+      <g
+         id="g6"
+         inkscape:label="east_glue"
+         transform="translate(597.9999,1012.9999)">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-7"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="620.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="glue-11" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="597.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-10" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-7-9"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="574.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-9" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-7"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="551.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="glue-8" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-7-0-7"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="505.50079"
+           transform="scale(-1,1)"
+           inkscape:label="glue-7" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-7-0"
+           width="23"
+           height="23"
+           x="-2069.5002"
+           y="528.50037"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="glue-6" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-7-2"
+           width="23"
+           height="23"
+           x="-2069.5005"
+           y="482.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-5" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-0"
+           width="23"
+           height="23"
+           x="-2069.5005"
+           y="459.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="glue-4" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-7-9-2"
+           width="23"
+           height="23"
+           x="-2069.5005"
+           y="436.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-3" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-7-1"
+           width="23"
+           height="23"
+           x="-2069.5005"
+           y="413.5"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="glue-2" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-7-0-3"
+           width="23"
+           height="23"
+           x="-2069.5005"
+           y="390.50037"
+           transform="scale(-1,1)"
+           inkscape:label="glue-1" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-4-7-0-7-7"
+           width="23"
+           height="23"
+           x="-2069.5005"
+           y="367.50079"
+           transform="scale(-1,1)"
+           inkscape:label="glue-0" />
+      </g>
+      <g
+         id="g5"
+         inkscape:label="south_bit_writer"
+         transform="translate(597.9999,1012.9999)">
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5"
+           width="23"
+           height="23"
+           x="-2023.5001"
+           y="735.50012"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-2" />
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-6"
+           width="23"
+           height="23"
+           x="-2000.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-1" />
+        <rect
+           style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="735.50024"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,-1.0416667e-5)"
+           inkscape:label="bit_writer-0" />
+      </g>
+      <g
+         id="g3"
+         inkscape:label="south_bit_reader"
+         transform="translate(597.9999,1009.9999)">
+        <rect
+           style="fill:#6200b2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-3"
+           width="23"
+           height="23"
+           x="-1816.5"
+           y="623.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q01-2" />
+        <rect
+           style="fill:#6200b2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-49"
+           width="23"
+           height="23"
+           x="-1839.5"
+           y="623.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q01-1" />
+        <rect
+           style="fill:#6200b2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-04"
+           width="23"
+           height="23"
+           x="-1862.5"
+           y="623.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q01-0" />
+        <rect
+           style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-64"
+           width="23"
+           height="23"
+           x="-1839.5"
+           y="646.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q11-2" />
+        <rect
+           style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-6"
+           width="23"
+           height="23"
+           x="-1862.5"
+           y="646.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q11-1" />
+        <rect
+           style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-1"
+           width="23"
+           height="23"
+           x="-1885.5"
+           y="646.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q11-0" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-0"
+           width="23"
+           height="23"
+           x="-1885.5"
+           y="623.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q1-4" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-8"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="623.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q1-3" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-7"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="646.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q1-2" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8-4"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="646.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q1-1" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9-8"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="646.5"
+           transform="scale(-1,1)"
+           inkscape:label="SE-bit_reader_q1-0" />
+        <rect
+           style="fill:#aa0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-0-9"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="623.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_qE-1" />
+        <rect
+           style="fill:#aa0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="620.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_qE-0" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-1"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="643.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-14" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-11"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="666.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-13" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-7-0"
+           width="23"
+           height="23"
+           x="-1977.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-12" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-7"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-11" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-3-94"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-10" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-1-72"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-9" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-3-9-9"
+           width="23"
+           height="23"
+           x="-1885.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-8" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-1-7-7"
+           width="23"
+           height="23"
+           x="-1862.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-7" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-3-9-6-0"
+           width="23"
+           height="23"
+           x="-1839.5"
+           y="689.50012"
+           transform="matrix(-1,0,0,1,0,3)"
+           inkscape:label="bit_reader_constructor-6" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-3-9-6"
+           width="23"
+           height="23"
+           x="-1839.5"
+           y="712.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-5" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-1-7"
+           width="23"
+           height="23"
+           x="-1862.5"
+           y="712.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-4" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-3-9"
+           width="23"
+           height="23"
+           x="-1885.5"
+           y="712.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-3" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7-1"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="712.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-2" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-3"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="712.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-1" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-5-7"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="712.50012"
+           transform="matrix(-1,0,0,1,-6.2500033e-7,2.9999896)"
+           inkscape:label="bit_reader_constructor-0" />
+      </g>
+      <g
+         id="g4"
+         inkscape:label="south_glue"
+         transform="matrix(0.99999869,0,0,1,598.0021,1012.9999)"
+         style="stroke-width:1">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4"
+           width="23"
+           height="23"
+           x="-1954.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-11" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0"
+           width="23"
+           height="23"
+           x="-1931.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-10" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-9"
+           width="23"
+           height="23"
+           x="-1908.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-9" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7"
+           width="23"
+           height="23"
+           x="-1885.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-8" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-9-0"
+           width="23"
+           height="23"
+           x="-1862.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-7" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2"
+           width="23"
+           height="23"
+           x="-1839.5"
+           y="735.50024"
+           transform="scale(-1,1)"
+           inkscape:label="glue-6" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-2"
+           width="23"
+           height="23"
+           x="-1816.5"
+           y="735.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-5" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-2"
+           width="23"
+           height="23"
+           x="-1793.5"
+           y="735.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-4" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-9-2"
+           width="23"
+           height="23"
+           x="-1770.5"
+           y="735.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-3" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-8"
+           width="23"
+           height="23"
+           x="-1747.5"
+           y="735.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-2" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-4-9-0-0"
+           width="23"
+           height="23"
+           x="-1724.5"
+           y="735.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-1" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5"
+           width="23"
+           height="23"
+           x="-1701.5"
+           y="735.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-0" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;marker-end:url(#Square)"
+         d="m 2471.9999,1644.9999 v 23 h -46 v -9.2"
+         id="path3"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="south_reader_q11_pathing" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+         d="m 2471.9999,1644.9999 h -78.565"
+         id="path4"
+         sodipodi:nodetypes="cc"
+         inkscape:label="south_reader_q01_pathing" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none"
+         d="m 2540.9998,1644.9999 10e-5,23 h -46 v -23 h -23"
+         id="path2"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="south_reader_q1_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;marker-end:url(#Square);paint-order:fill markers stroke"
+         d="m 2540.9996,1759.7499 v -23.0001 h -115 v -23 h 137.9999 v -68.7499 h -22.9996 -9"
+         id="path9"
+         inkscape:label="south_reader_qE_pathing"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#6f00cc;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;marker-end:url(#Square)"
+         d="m 2540.9996,1759.7499 78.1003,0.2495"
+         id="path5"
+         sodipodi:nodetypes="cc"
+         inkscape:label="south_writer_pathing" />
+      <path
+         style="fill:#510099;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 2277.7518,1759.7499 h 263.2477"
+         id="path8"
+         sodipodi:nodetypes="cc"
+         inkscape:label="south_glue_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none"
+         d="m 2655.9999,1644.9999 h -22.9998 V 1530.0003 H 2610 l -1e-4,125.2496"
+         id="path7"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="east_reader_qE_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none"
+         d="m 2517.9999,1621.9999 v 23"
+         id="path10"
+         inkscape:label="east_writer_bit_1_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none"
+         d="m 2655.9999,1644.9999 v 114.9995 h -23 l 2e-4,-91.9994 h -46.0002 l -3e-4,-46.0002 -171.25,10e-5"
+         id="path6"
+         inkscape:label="east_writer_pathing"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         style="fill:#510099;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 2655.9999,1381.7499 v 263.25"
+         id="path8-0"
+         sodipodi:nodetypes="cc"
+         inkscape:label="east_glue_pathing" />
+    </g>
+    <g
+       id="g10"
+       inkscape:label="ESW-right_first"
+       transform="translate(6.4471541e-5,138.00324)">
+      <rect
+         style="fill:#ffff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-72-5"
+         width="22.999939"
+         height="23"
+         x="-2046.5"
+         y="1448.5"
+         transform="matrix(-1,0,0,1,-161.00005,1.1047363e-5)"
+         inkscape:label="right_bit_writer" />
+      <g
+         id="g13-0"
+         inkscape:label="left_bit_reader"
+         style="fill:#ff00ff"
+         transform="translate(-138.00005,-0.00584833)">
+        <rect
+           style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26-46"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1264.449"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q11-2" />
+        <rect
+           style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26-1"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1287.449"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q11-1" />
+        <rect
+           style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26-61"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1310.5234"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q11-0" />
+        <rect
+           style="fill:#6200b2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26-9"
+           width="22.999939"
+           height="23"
+           x="-2046.5"
+           y="1241.5293"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q01-2" />
+        <rect
+           style="fill:#6200b2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26-4"
+           width="22.999939"
+           height="23"
+           x="-2046.5"
+           y="1264.5293"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q01-1" />
+        <rect
+           style="fill:#6200b2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26-6"
+           width="22.999939"
+           height="23"
+           x="-2046.5"
+           y="1287.449"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q01-0" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-26"
+           width="22.999939"
+           height="23"
+           x="-2046.5"
+           y="1310.5234"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q1-4" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-1"
+           width="22.999939"
+           height="23"
+           x="-2046.5"
+           y="1333.4745"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q1-3" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-2"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1333.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q1-2" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7-6"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1356.5176"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q1-1" />
+        <rect
+           style="fill:#8f10ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7-7"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1379.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_q1-0" />
+        <rect
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9-7"
+           width="22.999939"
+           height="23"
+           x="-2046.5"
+           y="1379.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_qE-1" />
+        <rect
+           style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7-9"
+           width="22.999939"
+           height="23"
+           x="-2046.4999"
+           y="1402.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_qE-0" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4-7"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1402.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-6" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-1-7"
+           width="22.999939"
+           height="23"
+           x="-1954.5"
+           y="1402.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-5" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-4-8"
+           width="22.999939"
+           height="23"
+           x="-1977.5"
+           y="1402.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-4" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3-4"
+           width="22.999939"
+           height="23"
+           x="-2000.5"
+           y="1402.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-3" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-2-5"
+           width="22.999939"
+           height="23"
+           x="-2000.5"
+           y="1425.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-2" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-5-8"
+           width="22.999939"
+           height="23"
+           x="-1977.5"
+           y="1425.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-1" />
+        <rect
+           style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-18"
+           width="22.999939"
+           height="23"
+           x="-1954.5"
+           y="1425.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-0" />
+      </g>
+      <g
+         id="g11-6"
+         inkscape:label="left_glue"
+         transform="translate(-161.00005,1.1047363e-5)">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-7"
+           width="22.999939"
+           height="23"
+           x="-1954.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-3" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-3-6"
+           width="22.999939"
+           height="23"
+           x="-1977.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-2" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-2"
+           width="22.999939"
+           height="23"
+           x="-2000.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-1" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-72"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-0" />
+      </g>
+      <g
+         id="g14"
+         inkscape:label="right_bit_writer"
+         style="fill:#00ff00">
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1-8-9"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1264.5234"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-5" />
+        <rect
+           style="fill:#007000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1-8-0"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1287.4431"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-4" />
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1-8-5"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1310.5176"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-3" />
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1-8"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1333.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-2" />
+        <rect
+           style="fill:#007000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1-7-7"
+           width="22.999939"
+           height="23"
+           x="-1908.5"
+           y="1356.5117"
+           transform="scale(-1,1)"
+           inkscape:label="bit-1" />
+        <rect
+           style="fill:#007000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1-7"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1356.5117"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-1" />
+        <rect
+           style="fill:#009800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7-1"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1379.5569"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer-0" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-7"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1402.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer_constructor-4" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-8"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1425.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer_constructor-3" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-4"
+           width="22.999939"
+           height="23"
+           x="-1908.5"
+           y="1425.4941"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer_constructor-2" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4-9"
+           width="22.999939"
+           height="23"
+           x="-1908.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer_constructor-1" />
+        <rect
+           style="fill:#00ff00;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-4"
+           width="22.999939"
+           height="23"
+           x="-1931.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_writer_constructor-0" />
+      </g>
+      <g
+         id="g13"
+         inkscape:label="right_bit_reader"
+         style="fill:#ff00ff">
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-1"
+           width="22.999939"
+           height="23"
+           x="-1954.5"
+           y="1402.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-5" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-4"
+           width="22.999939"
+           height="23"
+           x="-1977.5"
+           y="1402.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-4" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-3"
+           width="22.999939"
+           height="23"
+           x="-2000.5"
+           y="1402.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-3" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-2"
+           width="22.999939"
+           height="23"
+           x="-2000.5"
+           y="1425.5"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-2" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70-5"
+           width="22.999939"
+           height="23"
+           x="-1977.5"
+           y="1425.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-1" />
+        <rect
+           style="fill:#ff00ff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6-70"
+           width="22.999939"
+           height="23"
+           x="-1954.5"
+           y="1425.5059"
+           transform="scale(-1,1)"
+           inkscape:label="bit_reader_constructor-0" />
+      </g>
+      <g
+         id="g11"
+         inkscape:label="right_glue">
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7-6"
+           width="22.999939"
+           height="23"
+           x="-1954.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-3" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-3"
+           width="22.999939"
+           height="23"
+           x="-1977.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-2" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8-7"
+           width="22.999939"
+           height="23"
+           x="-2000.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-1" />
+        <rect
+           style="fill:#b3b3b3;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-8"
+           width="22.999939"
+           height="23"
+           x="-2023.5"
+           y="1448.5"
+           transform="scale(-1,1)"
+           inkscape:label="glue-0" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16)"
+         d="m 1897,1460.0208 h -23 v -46.0744 l 9.1,0.08"
+         id="path20"
+         sodipodi:nodetypes="cccc"
+         transform="translate(-6.4471541e-5,-138.00324)"
+         inkscape:label="left_reader_q11_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21)"
+         d="m 1897,1460.0208 0,-78.5558"
+         id="path19"
+         sodipodi:nodetypes="cc"
+         transform="translate(-6.4471541e-5,-138.00324)"
+         inkscape:label="left_reader_q01_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1896.9999,1390.9941 H 1874 V 1345 l 22.9999,-0.031 10e-5,-22.9514"
+         id="path17"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="left_reader_q1_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16)"
+         d="m 1851,1459.9968 v -23.0027 l -46,0.01 v -23 l 91.9998,-0.01 2e-4,-32.0973"
+         id="path15"
+         inkscape:label="left_reader_qE_pathing"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16)"
+         d="M 1851.0001,1598 H 1883.1"
+         id="path22"
+         transform="translate(-6.4471541e-5,-138.00324)"
+         inkscape:label="left_writer_pathing"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#2eb8ff;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1771.7499,1459.9968 H 1851"
+         id="path14"
+         inkscape:label="left_glue_pathing"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16)"
+         d="m 1943,1459.9968 v -23 h 46 v -23 l -55.1001,0"
+         id="path24"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="right_reader_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1920,1368.0117 h -23"
+         id="path26"
+         inkscape:label="right_writer_bit_1_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1943,1459.9968 h -46 v -23.0059 l 23,0.01 v -171.2541"
+         id="path25"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="right_writer_pathing" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2022.2499,1459.9968 H 1943"
+         id="path23"
+         inkscape:label="right_glue_pathing"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect2"
+       width="500"
+       height="500"
+       x="217.54701"
+       y="139.3864"
+       inkscape:label="whatever" />
+  </g>
+</svg>
