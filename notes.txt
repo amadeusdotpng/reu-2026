@@ -1,2 +1,11 @@
-- weakly self-assemble vs strictly self-assemble
-- local determinism conditions; page 4 of Patitz paper
+thm 10 construction:
+- things that need to cross through NS (and EW):
+  - W, NW, SW, SWN
+  - A maximum of three regions need to cross NS at once: NW, SW, and SWN.
+
+    Let the North and South glue enter the macrotile where they do not
+    cooperate. This produces an NS region that is crossable.
+
+    Let the askjskaaskjdncaksjdn
+
+- ask about the uniqueness of the center tile....

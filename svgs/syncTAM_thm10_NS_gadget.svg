@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1797.4654"
-     inkscape:cy="2989.6475"
+     inkscape:zoom="0.25"
+     inkscape:cx="1958"
+     inkscape:cy="2988"
      inkscape:window-width="1878"
      inkscape:window-height="987"
      inkscape:window-x="20"
      inkscape:window-y="72"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1-7-7">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -52,6 +52,26 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3" />
+    </marker>
     <marker
        style="overflow:visible"
        id="Square"
@@ -830,6 +850,26 @@
          style="fill:context-stroke;fill-rule:evenodd;stroke:none"
          d="M -5,-5 V 5 H 5 V -5 Z"
          id="path18-3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-8" />
     </marker>
   </defs>
   <g
@@ -7296,6 +7336,13 @@
            y="-229.5"
            transform="scale(-1)"
            inkscape:label="wire" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;marker-end:url(#ArrowWide)"
+           d="m 666.5,217.99998 h 172.50001 v 69 H 862 v 46.00001 h 92.00002 v -46.00001 h 22.99999 v -69 l 331.92499,3e-5"
+           id="path2"
+           transform="translate(-3.1249999e-6,-1.0625e-5)"
+           inkscape:label="pathing"
+           sodipodi:nodetypes="cccccccccc" />
       </g>
       <g
          id="g41"
@@ -7642,6 +7689,12 @@
            y="-298.49997"
            transform="scale(-1)"
            inkscape:label="wire" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;marker-end:url(#ArrowWide)"
+           d="m 666.5,286.99998 126.50001,-3e-5 v 46.00001 h 23 v 69 H 1000 v -69 h 23 v -46.00001 l 285.925,2e-5"
+           id="path1"
+           inkscape:label="pathing"
+           sodipodi:nodetypes="cccccccccc" />
       </g>
     </g>
     <g
@@ -8890,48 +8943,1113 @@
           </g>
         </g>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-size:16.9333px;font-family:'SFMono Nerd Font';-inkscape-font-specification:'SFMono Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+      <g
+         id="g40-9"
+         inkscape:label="NW_to_WNE_wire"
+         transform="translate(7.94375e-5,4.2291667e-5)">
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-83"
+           width="22.999969"
+           height="23"
+           x="-689.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-9-8"
+           width="22.999969"
+           height="23"
+           x="-712.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-96-2"
+           width="22.999969"
+           height="23"
+           x="-735.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-1-8"
+           width="22.999969"
+           height="23"
+           x="-758.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-5-7"
+           width="22.999969"
+           height="23"
+           x="-781.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-6-7"
+           width="22.999969"
+           height="23"
+           x="-804.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-2-1"
+           width="22.999969"
+           height="23"
+           x="-827.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-7-7"
+           width="22.999969"
+           height="23"
+           x="-850.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-4-3"
+           width="22.999969"
+           height="23"
+           x="-850.5"
+           y="-252.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-0-5"
+           width="22.999969"
+           height="23"
+           x="-850.5"
+           y="-275.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-93-6"
+           width="22.999969"
+           height="23"
+           x="-850.5"
+           y="-298.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-20-7"
+           width="22.999969"
+           height="23"
+           x="-873.5"
+           y="-298.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-11-0"
+           width="22.999969"
+           height="23"
+           x="-873.5"
+           y="-321.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-01-0"
+           width="22.999969"
+           height="23"
+           x="-873.5"
+           y="-344.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-76-8"
+           width="22.999969"
+           height="23"
+           x="-896.5"
+           y="-344.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-49-6"
+           width="22.999969"
+           height="23"
+           x="-919.5"
+           y="-344.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-97-7"
+           width="22.999969"
+           height="23"
+           x="-942.5"
+           y="-344.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-3-1"
+           width="22.999969"
+           height="23"
+           x="-965.5"
+           y="-344.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-8-5"
+           width="22.999969"
+           height="23"
+           x="-965.5"
+           y="-321.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-52-5"
+           width="22.999969"
+           height="23"
+           x="-965.5"
+           y="-298.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-86-9"
+           width="22.999969"
+           height="23"
+           x="-988.5"
+           y="-298.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-00-5"
+           width="22.999969"
+           height="23"
+           x="-988.5"
+           y="-275.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-204-5"
+           width="22.999969"
+           height="23"
+           x="-988.5"
+           y="-252.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-32-6"
+           width="22.999969"
+           height="23"
+           x="-988.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-88-2"
+           width="22.999969"
+           height="23"
+           x="-1011.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-74-5"
+           width="22.999969"
+           height="23"
+           x="-1034.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-769-8"
+           width="22.999969"
+           height="23"
+           x="-1057.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-38-9"
+           width="22.999969"
+           height="23"
+           x="-1080.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-15-8"
+           width="22.999969"
+           height="23"
+           x="-1103.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-933-8"
+           width="22.999969"
+           height="23"
+           x="-1126.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-25-0"
+           width="22.999969"
+           height="23"
+           x="-1149.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-82-2"
+           width="22.999969"
+           height="23"
+           x="-1172.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-150-8"
+           width="22.999969"
+           height="23"
+           x="-1195.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-51-2"
+           width="22.999969"
+           height="23"
+           x="-1218.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-823-2"
+           width="22.999969"
+           height="23"
+           x="-1241.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-70-6"
+           width="22.999969"
+           height="23"
+           x="-1264.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-40-1"
+           width="22.999969"
+           height="23"
+           x="-1287.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#178276;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-939-3"
+           width="22.999969"
+           height="23"
+           x="-1310.5"
+           y="-229.5"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;marker-end:url(#ArrowWide-5)"
+           d="m 666.5,217.99998 h 172.50001 v 69 H 862 v 46.00001 h 92.00002 v -46.00001 h 22.99999 v -69 l 331.92499,3e-5"
+           id="path2-5"
+           transform="translate(-3.1249999e-6,-1.0625e-5)"
+           inkscape:label="pathing"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <g
+         id="g41-5"
+         inkscape:label="SW_to_ESW_wire"
+         transform="translate(7.94375e-5,4.2291667e-5)">
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83"
+           width="22.999969"
+           height="23"
+           x="-689.5"
+           y="-298.5"
+           transform="rotate(180,-1.5625e-6,-5.3125e-6)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-7-2"
+           width="22.999969"
+           height="23"
+           x="-712.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-6-0"
+           width="22.999969"
+           height="23"
+           x="-735.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-78-5"
+           width="22.999969"
+           height="23"
+           x="-758.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-0-1"
+           width="22.999969"
+           height="23"
+           x="-781.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-8-8"
+           width="22.999969"
+           height="23"
+           x="-804.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-5-3"
+           width="22.999969"
+           height="23"
+           x="-804.5"
+           y="-321.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-75-4"
+           width="22.999969"
+           height="23"
+           x="-804.5"
+           y="-344.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-9-6"
+           width="22.999969"
+           height="23"
+           x="-827.5"
+           y="-344.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-3-0"
+           width="22.999969"
+           height="23"
+           x="-827.5"
+           y="-367.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-92-3"
+           width="22.999969"
+           height="23"
+           x="-827.5"
+           y="-390.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-34-3"
+           width="22.999969"
+           height="23"
+           x="-827.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-4-5"
+           width="22.999969"
+           height="23"
+           x="-850.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-93-1"
+           width="22.999969"
+           height="23"
+           x="-873.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-72-7"
+           width="22.999969"
+           height="23"
+           x="-896.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-1-0"
+           width="22.999969"
+           height="23"
+           x="-919.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-33-9"
+           width="22.999969"
+           height="23"
+           x="-942.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-76-7"
+           width="22.999969"
+           height="23"
+           x="-965.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-37-0"
+           width="22.999969"
+           height="23"
+           x="-988.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-47-9"
+           width="22.999969"
+           height="23"
+           x="-1011.5"
+           y="-413.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-63-9"
+           width="22.999969"
+           height="23"
+           x="-1011.5"
+           y="-390.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-920-4"
+           width="22.999969"
+           height="23"
+           x="-1011.5"
+           y="-367.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-65-8"
+           width="22.999969"
+           height="23"
+           x="-1011.5"
+           y="-344.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-18-3"
+           width="22.999969"
+           height="23"
+           x="-1034.5"
+           y="-344.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-91-6"
+           width="22.999969"
+           height="23"
+           x="-1034.5"
+           y="-321.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-650-6"
+           width="22.999969"
+           height="23"
+           x="-1034.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-98-4"
+           width="22.999969"
+           height="23"
+           x="-1057.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-73-0"
+           width="22.999969"
+           height="23"
+           x="-1080.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-57-1"
+           width="22.999969"
+           height="23"
+           x="-1103.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-90"
+           width="22.999969"
+           height="23"
+           x="-1126.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-3-4"
+           width="22.999969"
+           height="23"
+           x="-1149.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-6-2"
+           width="22.999969"
+           height="23"
+           x="-1172.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-0-1"
+           width="22.999969"
+           height="23"
+           x="-1195.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-5-9"
+           width="22.999969"
+           height="23"
+           x="-1218.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-9-5"
+           width="22.999969"
+           height="23"
+           x="-1241.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-59-1"
+           width="22.999969"
+           height="23"
+           x="-1264.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-1-4"
+           width="22.999969"
+           height="23"
+           x="-1287.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-58-54-9"
+           width="22.999969"
+           height="23"
+           x="-1310.5"
+           y="-298.49997"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.5;marker-end:url(#ArrowWide-5)"
+           d="m 666.5,286.99998 126.50001,-3e-5 v 46.00001 h 23 v 69 H 1000 v -69 h 23 v -46.00001 l 285.925,2e-5"
+           id="path4"
+           inkscape:label="pathing"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <g
+         id="g7"
+         transform="translate(-137.99997,-299)"
+         inkscape:label="SWN_to_Center_wire">
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1"
+           width="22.999969"
+           height="23"
+           x="-689.5"
+           y="-275.5"
+           transform="rotate(180,69.000023,149.50002)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-6"
+           width="22.999969"
+           height="23"
+           x="-850.50006"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-5"
+           width="22.999969"
+           height="23"
+           x="-873.50006"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-0"
+           width="22.999969"
+           height="23"
+           x="-896.50006"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-4"
+           width="22.999969"
+           height="23"
+           x="-919.50006"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-58"
+           width="22.999969"
+           height="23"
+           x="-942.50006"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-3"
+           width="22.999969"
+           height="23"
+           x="-965.50006"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-8"
+           width="22.999969"
+           height="23"
+           x="-965.50006"
+           y="-597.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-60"
+           width="22.999969"
+           height="23"
+           x="-965.50006"
+           y="-620.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-9"
+           width="22.999969"
+           height="23"
+           x="-988.50006"
+           y="-620.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-38"
+           width="22.999969"
+           height="23"
+           x="-988.50006"
+           y="-643.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-384"
+           width="22.999969"
+           height="23"
+           x="-988.50006"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-382"
+           width="22.999969"
+           height="23"
+           x="-1011.5001"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-385"
+           width="22.999969"
+           height="23"
+           x="-1034.5"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-55"
+           width="22.999969"
+           height="23"
+           x="-1057.5"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-2"
+           width="22.999969"
+           height="23"
+           x="-1080.5"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-87"
+           width="22.999969"
+           height="23"
+           x="-1103.5"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-68"
+           width="22.999969"
+           height="23"
+           x="-1126.5"
+           y="-666.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-7"
+           width="22.999969"
+           height="23"
+           x="-1126.5"
+           y="-643.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-33"
+           width="22.999969"
+           height="23"
+           x="-1126.5"
+           y="-620.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-09"
+           width="22.999969"
+           height="23"
+           x="-1149.5"
+           y="-620.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-56"
+           width="22.999969"
+           height="23"
+           x="-1149.5"
+           y="-597.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-387"
+           width="22.999969"
+           height="23"
+           x="-1149.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-94"
+           width="22.999969"
+           height="23"
+           x="-1172.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-22"
+           width="22.999969"
+           height="23"
+           x="-1195.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-339"
+           width="22.999969"
+           height="23"
+           x="-1218.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-93"
+           width="22.999969"
+           height="23"
+           x="-1241.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-01"
+           width="22.999969"
+           height="23"
+           x="-1264.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-03"
+           width="22.999969"
+           height="23"
+           x="-1287.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-48"
+           width="22.999969"
+           height="23"
+           x="-1310.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-07"
+           width="22.999969"
+           height="23"
+           x="-1333.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-1"
+           width="22.999969"
+           height="23"
+           x="-1356.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-50"
+           width="22.999969"
+           height="23"
+           x="-1379.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-97"
+           width="22.999969"
+           height="23"
+           x="-1402.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-874"
+           width="22.999969"
+           height="23"
+           x="-1425.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <rect
+           style="fill:#6c38aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:1.5;stroke-dasharray:none;paint-order:fill markers stroke"
+           id="rect1-9-2-8-6-5-0-6-0-5-0-7-2-5-56-4-8-4-7-68-4-1-6-2-47-83-1-71"
+           width="22.999969"
+           height="23"
+           x="-1448.5"
+           y="-574.50006"
+           transform="scale(-1)"
+           inkscape:label="wire" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;marker-end:url(#ArrowWide)"
+           d="M 666.50007,264.00004 H 816.0001 v 46.00001 h 22.99999 v 46.00001 H 977.00003 V 310.00005 H 1000 v -46.00001 l 308.925,2e-5"
+           id="path7"
+           sodipodi:nodetypes="cccccccccc"
+           transform="translate(137.99997,298.99999)"
+           inkscape:label="pathing" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;font-family:'SFMono Nerd Font';-inkscape-font-specification:'SFMono Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#ff6733;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       x="91.574852"
+       y="477.04376"
+       id="text41"
+       transform="translate(137.99997,298.99999)"
+       inkscape:label="comment"><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
          x="91.574852"
          y="477.04376"
-         id="text41"><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="477.04376"
-           id="tspan44">The top wire, from NW, knows where the flower grows from</tspan><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="498.21039"
-           id="tspan45">the North glue.</tspan><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="519.37701"
-           id="tspan47" /><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="540.54364"
-           id="tspan48">Similarly, the bottom wire, from SW, knows where the flowers</tspan><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="561.71027"
-           id="tspan49">grows from the South glue. The bottom wire only needs to</tspan><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="582.87689"
-           id="tspan52">crawl down when there is no flower in the next spot since</tspan><tspan
-           sodipodi:role="line"
-           style="stroke-width:1"
-           x="91.574852"
-           y="604.04352"
-           id="tspan53">an empty spot means a possibility of</tspan></text>
-    </g>
+         id="tspan44">The top wire, from NW, knows where the flower grows from</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="498.21039"
+         id="tspan45">the North glue.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="519.37701"
+         id="tspan47" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="540.54364"
+         id="tspan48">Similarly, the bottom wire, from SW, knows where the flowers</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="561.71027"
+         id="tspan49">grows from the South glue. The bottom wire only needs to</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="582.87689"
+         id="tspan52">crawl down when there is no flower in the next spot since</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="604.04352"
+         id="tspan53">an empty spot means a possibility of a flower from the North.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="625.21014"
+         id="tspan7" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="646.37677"
+         id="tspan8">The middle wire, from SWN, knows where both flowers from the</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="667.5434"
+         id="tspan10">North and South will grow since it includes both the North and</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="91.574852"
+         y="688.71002"
+         id="tspan11">South glues. This means it can dodge any flowers.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.9333px;font-family:'SFMono Nerd Font';-inkscape-font-specification:'SFMono Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
