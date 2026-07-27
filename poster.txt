@@ -1,0 +1,47 @@
+One of the first models of algorithmic self-assembly was the abstract Tile Assembly Model (aTAM).
+In the aTAM, sets of unit square tiles are carefully designed such that the tiles attach to each
+other, by having matching glues on their sides, to grow interesting assemblies. A large focus of
+these interesting assemblies deal with performing computation and generating complex shapes and
+patterns. In fact, the aTAM has been shown to be capable of Turing universal computation as well as
+being intrinsically universal. [TODO: Cite!]
+
+Further explorations of self-assembling systems have led to derivative models of the aTAM, one of
+which is the Syncronous Tile Assembly Model (syncTAM). In the aTAM, only up to a single tile
+attaches to the assembly at each timestep regardless of the number of locations of where an
+attachment can occur. The aTAM is asynchronous since the location of attachment to the assembly is
+chosen non-deterministically. In contrast, the syncTAM synchronously attaches a tile to every
+location where an attachment can occur.
+
+We show two results using the power of synchronicity provided by the syncTAM:
+1. Turing universal computation can be restricted down to a 19-tile wide band, unlike in the aTAM
+which requires an arbitrary size in width.
+2. There exists an intrinsically unversal system at temperature 1, unlike in the aTAM which requires
+temperature 2 or greater.
+
+------------------------------------------------------------------------------------------------------
+
+One of the first models of algorithmic self-assembly was the abstract Tile Assembly Model (aTAM). In the aTAM, sets of unit square tiles are carefully designed such that the tiles attach to each other, by having matching glues on their sides, to grow interesting assemblies. A large focus of these interesting assemblies deal with performing computation and generating complex shapes and patterns. In fact, the aTAM has been shown to be capable of Turing universal computation as well as being intrinsically universal. [TODO: Cite!]
+
+Further explorations of self-assembling systems have led to derivative models of the aTAM, one of which is the Synchronous Tile Assembly Model (syncTAM). In the aTAM, only up to a single tile attaches to the assembly at each timestep regardless of the number of locations of where an attachment can occur. The aTAM is asynchronous since the location of attachment to the assembly is chosen non-deterministically. In contrast, the syncTAM synchronously attaches a tile to every location where an attachment can occur.
+
+We show two results using the power of synchronicity provided by the syncTAM:
+1. Turing universal computation can be restricted down to a 19-tile wide band, unlike in the aTAM which requires an arbitrary size in width.
+2. There exists an intrinsically universal system at temperature 1, unlike in the aTAM which requires temperature 2 or greater.
+
+-----------------------------------------------------------------------------------------------------
+
+One of the first models of algorithmic self-assembly is the abstract Tile Assembly Model (aTAM). In the aTAM, sets of tiles are carefully designed such that the tiles attach to each other, by having matching glues on their sides, to grow interesting assemblies. A derivative model of the aTAM is the Synchronous Tile Assembly Model (syncTAM). In the aTAM, only a single tile attaches at each step of the assembly, regardless of the number of locations of where an attachment can occur. In contrast, the syncTAM synchronously attaches a tile to every location where an attachment can occur.
+
+We show that the synchronicity provided by the syncTAM allows for Turing universal computation within a 19-tile wide band, unlike in the aTAM which requires an arbitrary size in width, and an intrinsically universal system at temperature 1, unlike in the aTAM which requires temperature 2 or greater.
+
+-----------------------------------------------------------------------------------------------------
+
+- The abstract Tile Assembly Model (aTAM) models algorithmic self-assembly using non-rotatable unit square tiles as its fundamental component.
+- Edges of tiles contain "glues" which consists of a label and a strength.
+- Tiles attach to each other by matching glue labels with a total strength of greater than or equal to a set temperature.
+- The aTAM only allows one tile attachment at each timestep.
+
+In the Synchronous Tile Assembly Model (syncTAM), a derivative model of the aTAM, attaches a tile to every location a tile can attach to.
+
+The synchronicity of the syncTAM is able to construct assemblies the aTAM is inherently incapable of.
+
