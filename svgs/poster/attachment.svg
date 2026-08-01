@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.9824982in"
+   height="0.98249936in"
+   viewBox="0 0 126.55545 24.955484"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="attachment.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="462.53621"
+     inkscape:cy="45.078056"
+     inkscape:window-width="1878"
+     inkscape:window-height="987"
+     inkscape:window-x="20"
+     inkscape:window-y="72"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3-1-2"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="-127.8255"
+       originy="-25.4"
+       spacingx="12.7"
+       spacingy="12.7"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="1"
+       enabled="true"
+       visible="true"
+       dotted="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       markerWidth="1.05"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapRibbon1"
+       viewBox="0 0 1.05 1"
+       inkscape:stockid="Ribbon cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 H 2 L 1,0 2,1 H 0 L -0.1,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path62" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4" />
+    </marker>
+    <marker
+       markerWidth="1.05"
+       markerHeight="0.99999994"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       id="CapRibbon1-9"
+       viewBox="0 0 1.05 1"
+       inkscape:stockid="Ribbon cap"
+       style="overflow:visible"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         style="fill:context-stroke;stroke-linecap:butt"
+         d="M 0,-1 H 2 L 1,0 2,1 H 0 L -0.1,0 Z"
+         sodipodi:nodetypes="sssssscsss"
+         transform="scale(0.5)"
+         id="path62-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowTriangleStylized-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Stylized triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
+         id="path4-4" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-127.8255,-25.4)">
+    <g
+       id="g3"
+       inkscape:label="a_2">
+      <g
+         id="g3-4-5-4-0-2-6-6"
+         transform="matrix(0.99999805,0,0,0.99999805,190.69062,37.465031)"
+         inkscape:label="mint_str2">
+        <rect
+           style="fill:#04e762;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-3-9-9-1"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974454,4.8513762 h 1.015997"
+           id="path4-2-4-4-0-1-4-4"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974454,9.4826519 h 1.015997"
+           id="path4-2-6-7-9-0-0-2-2"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-18-1-3-4-4-1-3"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-1-4-8-6-3-8-2-5"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-6-6-4-8-7-0-4"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-4-2-5-8-3-4-2">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-7-3-2-8-7-2-9" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-5-4-6-2-2-5-9" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-5-0-0-9-4-7-0"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-8-8-4-2-1-0-9">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-8-8-7-6-7-9-4" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-8-1-1-0-3-5-1" /></text>
+      </g>
+      <g
+         id="g3-4-5-4-5-3"
+         transform="matrix(0.99999805,0,0,0.99999805,190.69062,24.765051)"
+         inkscape:label="yellow_str2">
+        <rect
+           style="fill:#f5b700;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-8-8"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,13.715979 4e-6,-1.016002"
+           id="path5-6-6-4-0-7-6"
+           sodipodi:nodetypes="cc"
+           inkscape:label="s_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,13.715979 4e-6,-1.016002"
+           id="path5-6-6-1-0-8-8-4"
+           sodipodi:nodetypes="cc"
+           inkscape:label="s_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974452,7.1754774 h 1.015997"
+           id="path4-3-8-6-7"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-18-1-3-1-2"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-1-4-8-6-6-4"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="12.049497"
+           id="text5-0-4-3-3-3"
+           inkscape:label="s_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="12.049497"
+             id="tspan8-5-4-7-69-9">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="13.813387"
+             id="tspan7-8-7-6-4-6" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="15.577276"
+             id="tspan6-60-9-7-6-1" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-65-3-5-9"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-3-2-5-7">1</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-2-1-22-6" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-1-1-94-6" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-5-0-0-3-5"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-8-8-4-1-0">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-8-8-7-9-9" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-8-1-1-1-9" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';writing-mode:lr-tb;direction:ltr;fill:#04e762;stroke:#000000;stroke-width:0.990602"
+           x="44.44487"
+           y="12.049497"
+           id="text1-2"><tspan
+             sodipodi:role="line"
+             id="tspan1-4"
+             style="stroke-width:0.990602"
+             x="44.44487"
+             y="12.049497" /></text>
+      </g>
+      <g
+         id="g3-4-5-4-2-3-6"
+         transform="matrix(0.99999805,0,0,0.99999805,203.3906,37.465031)"
+         inkscape:label="yellow_str2">
+        <rect
+           style="fill:#f5b700;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-7-3-6"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,4.8513762 h 1.016005"
+           id="path4-1-7-4-0-5-1-7"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,9.4741852 h 1.016005"
+           id="path4-1-7-3-9-9-8-2-9"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="M 49.974453,4.8513762 H 50.99045"
+           id="path4-2-4-4-7-7-6"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="M 49.974453,9.4826519 H 50.99045"
+           id="path4-2-6-7-9-5-5-7"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.449952,1.6509774 -4e-6,-1.01600197"
+           id="path5-3-3-2-0-6"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="40.398125"
+           y="7.7434511"
+           id="text5-1-9-3-2-3-1-9"
+           inkscape:label="w_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="7.7434511"
+             id="tspan8-8-2-7-2-8-4-2">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="9.5073414"
+             id="tspan7-2-0-0-1-3-8-7" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="11.271232"
+             id="tspan6-2-0-8-9-59-1-7" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-6-6-4-2-4-0"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-4-2-5-80-2-3">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-7-3-2-5-6-6" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-5-4-6-7-9-4" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-3-4-4-8-8"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-5-6-9-6-9">0</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-4-5-5-8-3" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-2-4-9-5-6" /></text>
+      </g>
+      <g
+         id="g3-1-2"
+         transform="matrix(0.99999805,0,0,0.99999805,203.3906,24.765052)"
+         inkscape:label="pink_str1">
+        <rect
+           style="fill:#dc0073;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-4-0"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,7.1754774 h 1.016005"
+           id="path4-1-3-1"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974452,7.1754774 h 1.015997"
+           id="path4-3-1"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.449952,1.6509774 -4e-6,-1.01600197"
+           id="path5-3-4"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.449948,13.715979 4e-6,-1.016002"
+           id="path5-6-60-5"
+           sodipodi:nodetypes="cc"
+           inkscape:label="s_glue_0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="40.398125"
+           y="7.7434511"
+           id="text5-1-5-7"
+           inkscape:label="w_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="7.7434511"
+             id="tspan8-8-4-5">1</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="9.5073414"
+             id="tspan7-2-4-3" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="11.271232"
+             id="tspan6-2-6-6" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="12.049497"
+           id="text5-3-4"
+           inkscape:label="s_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="12.049497"
+             id="tspan8-0-1">0</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="13.813387"
+             id="tspan7-5-3" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="15.577276"
+             id="tspan6-3-2" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-65-0"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-3-8">0</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-2-0" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-1-7" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-3-0"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-5-3">1</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-4-55" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-2-3" /></text>
+      </g>
+    </g>
+    <g
+       id="g2"
+       inkscape:label="a_1">
+      <g
+         id="g3-4-5-4-0-2-6"
+         transform="matrix(0.99999805,0,0,0.99999805,139.89062,37.465011)"
+         inkscape:label="mint_str2">
+        <rect
+           style="fill:#04e762;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-3-9-9"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974454,4.8513762 h 1.015997"
+           id="path4-2-4-4-0-1-4"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974454,9.4826519 h 1.015997"
+           id="path4-2-6-7-9-0-0-2"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-18-1-3-4-4-1"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-1-4-8-6-3-8-2"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-6-6-4-8-7-0"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-4-2-5-8-3-4">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-7-3-2-8-7-2" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-5-4-6-2-2-5" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-5-0-0-9-4-7"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-8-8-4-2-1-0">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-8-8-7-6-7-9" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-8-1-1-0-3-5" /></text>
+      </g>
+      <g
+         id="g3-4-5-4-5"
+         transform="matrix(0.99999805,0,0,0.99999805,139.89062,24.765031)"
+         inkscape:label="yellow_str2">
+        <rect
+           style="fill:#f5b700;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-8"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,13.715979 4e-6,-1.016002"
+           id="path5-6-6-4-0-7"
+           sodipodi:nodetypes="cc"
+           inkscape:label="s_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,13.715979 4e-6,-1.016002"
+           id="path5-6-6-1-0-8-8"
+           sodipodi:nodetypes="cc"
+           inkscape:label="s_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974452,7.1754774 h 1.015997"
+           id="path4-3-8-6"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-18-1-3-1"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-1-4-8-6-6"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="12.049497"
+           id="text5-0-4-3-3"
+           inkscape:label="s_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="12.049497"
+             id="tspan8-5-4-7-69">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="13.813387"
+             id="tspan7-8-7-6-4" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="15.577276"
+             id="tspan6-60-9-7-6" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-65-3-5"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-3-2-5">1</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-2-1-22" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-1-1-94" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-5-0-0-3"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-8-8-4-1">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-8-8-7-9" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-8-1-1-1" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';writing-mode:lr-tb;direction:ltr;fill:#04e762;stroke:#000000;stroke-width:0.990602"
+           x="44.44487"
+           y="12.049497"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="stroke-width:0.990602"
+             x="44.44487"
+             y="12.049497" /></text>
+      </g>
+      <g
+         id="g3-4-5-4-2-3"
+         transform="matrix(0.99999805,0,0,0.99999805,152.5906,37.465011)"
+         inkscape:label="yellow_str2">
+        <rect
+           style="fill:#f5b700;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-7-3"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,4.8513762 h 1.016005"
+           id="path4-1-7-4-0-5-1"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,9.4741852 h 1.016005"
+           id="path4-1-7-3-9-9-8-2"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="M 49.974453,4.8513762 H 50.99045"
+           id="path4-2-4-4-7-7"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="M 49.974453,9.4826519 H 50.99045"
+           id="path4-2-6-7-9-5-5"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.449952,1.6509774 -4e-6,-1.01600197"
+           id="path5-3-3-2-0"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="40.398125"
+           y="7.7434511"
+           id="text5-1-9-3-2-3-1"
+           inkscape:label="w_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="7.7434511"
+             id="tspan8-8-2-7-2-8-4">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="9.5073414"
+             id="tspan7-2-0-0-1-3-8" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="11.271232"
+             id="tspan6-2-0-8-9-59-1" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-6-6-4-2-4"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-4-2-5-80-2">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-7-3-2-5-6" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-5-4-6-7-9" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-3-4-4-8"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-5-6-9-6">0</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-4-5-5-8" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-2-4-9-5" /></text>
+      </g>
+    </g>
+    <g
+       id="g1"
+       inkscape:label="a_0">
+      <g
+         id="g3-4-5-4-0-2"
+         transform="matrix(0.99999805,0,0,0.99999805,89.090624,37.465032)"
+         inkscape:label="mint_str2">
+        <rect
+           style="fill:#04e762;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-3-9"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974454,4.8513762 h 1.015997"
+           id="path4-2-4-4-0-1"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 49.974454,9.4826519 h 1.015997"
+           id="path4-2-6-7-9-0-0"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 42.121619,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-18-1-3-4-4"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 46.778295,1.6509771 4e-6,-1.01600197"
+           id="path5-6-6-1-4-8-6-3-8"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-6-6-4-8-7"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-4-2-5-8-3">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-7-3-2-8-7" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-5-4-6-2-2" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-5-0-0-9-4"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-8-8-4-2-1">T</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-8-8-7-6-7" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-8-1-1-0-3" /></text>
+      </g>
+      <g
+         id="g3-4-5-4-2"
+         transform="matrix(0.99999805,0,0,0.99999805,101.7906,37.465032)"
+         inkscape:label="yellow_str2">
+        <rect
+           style="fill:#f5b700;fill-opacity:1;stroke:#000000;stroke-width:0.381;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3-9-4-7-7"
+           width="11.049"
+           height="11.049"
+           x="38.925453"
+           y="1.6509771"
+           inkscape:label="inner" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,4.8513762 h 1.016005"
+           id="path4-1-7-4-0-5"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 37.909447,9.4741852 h 1.016005"
+           id="path4-1-7-3-9-9-8"
+           sodipodi:nodetypes="cc"
+           inkscape:label="w_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="M 49.974453,4.8513762 H 50.99045"
+           id="path4-2-4-4-7"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="M 49.974453,9.4826519 H 50.99045"
+           id="path4-2-6-7-9-5"
+           sodipodi:nodetypes="cc"
+           inkscape:label="e_glue_1" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:1"
+           d="m 44.449952,1.6509774 -4e-6,-1.01600197"
+           id="path5-3-3-2"
+           sodipodi:nodetypes="cc"
+           inkscape:label="n_glue_0" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="40.398125"
+           y="7.7434511"
+           id="text5-1-9-3-2-3"
+           inkscape:label="w_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="7.7434511"
+             id="tspan8-8-2-7-2-8">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="9.5073414"
+             id="tspan7-2-0-0-1-3" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="40.398125"
+             y="11.271232"
+             id="tspan6-2-0-8-9-59" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="48.501781"
+           y="7.730752"
+           id="text5-7-6-6-4-2"
+           inkscape:label="e_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="7.730752"
+             id="tspan8-2-4-2-5-80">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="9.4946423"
+             id="tspan7-6-7-3-2-5" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="48.501781"
+             y="11.258533"
+             id="tspan6-6-5-4-6-7" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.54;stroke-dasharray:none;stroke-opacity:0"
+           x="44.444878"
+           y="3.5736094"
+           id="text5-8-3-4-4"
+           inkscape:label="n_glue_label"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="3.5736094"
+             id="tspan8-1-5-6-9">0</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="5.3374996"
+             id="tspan7-9-4-5-5" /><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:'Aptos Mono';-inkscape-font-specification:'Aptos Mono';fill:#000000;fill-opacity:1;stroke-width:2.54"
+             x="44.444878"
+             y="7.1013894"
+             id="tspan6-4-2-4-9" /></text>
+      </g>
+    </g>
+    <path
+       style="fill:#04e762;stroke:#000000;stroke-width:0.9906;marker-start:url(#CapRibbon1-9);marker-end:url(#ArrowTriangleStylized-5)"
+       d="m 209.55,38.099999 h 12.7"
+       id="path1-6"
+       sodipodi:nodetypes="cc"
+       inkscape:label="a_1 -&gt; a_2" />
+    <path
+       style="fill:#04e762;stroke:#000000;stroke-width:0.9906;marker-start:url(#CapRibbon1);marker-end:url(#ArrowTriangleStylized)"
+       d="m 158.75,38.1 h 12.7"
+       id="path1"
+       sodipodi:nodetypes="cc"
+       inkscape:label="a_0 -&gt; a_1" />
+  </g>
+</svg>
